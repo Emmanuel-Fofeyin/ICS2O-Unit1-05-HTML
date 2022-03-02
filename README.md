@@ -6,5 +6,6 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Emmanuel-Fofeyin/ICS2O-Unit1-05-HTML)](https://repl.it/github/Emmanuel-Fofeyin/ICS2O-Unit1-05-HTML)
 
-This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/index2.html)
+This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML)
 
+The extra website can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/index2.html)
