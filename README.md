@@ -8,4 +8,4 @@
 
 This site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML)
 
-The extra website can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/index2.html)
+The extra site can be found at: [https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/](https://Emmanuel-Fofeyin.github.io/ICS2O-Unit1-05-HTML/index2.html)
